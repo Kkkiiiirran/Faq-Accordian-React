@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Faq-Accordian-React/static/css/main.bb464879.css",
+    "main.js": "/Faq-Accordian-React/static/js/main.5108beef.js",
+    "static/js/453.b3e9f8ca.chunk.js": "/Faq-Accordian-React/static/js/453.b3e9f8ca.chunk.js",
+    "static/media/background-pattern-desktop.svg": "/Faq-Accordian-React/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/Faq-Accordian-React/index.html",
+    "static/media/icon-star.svg": "/Faq-Accordian-React/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/Faq-Accordian-React/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/Faq-Accordian-React/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.bb464879.css.map": "/Faq-Accordian-React/static/css/main.bb464879.css.map",
+    "main.5108beef.js.map": "/Faq-Accordian-React/static/js/main.5108beef.js.map",
+    "453.b3e9f8ca.chunk.js.map": "/Faq-Accordian-React/static/js/453.b3e9f8ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb464879.css",
+    "static/js/main.5108beef.js"
+  ]
+}
